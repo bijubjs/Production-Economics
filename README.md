@@ -1,2 +1,2 @@
 # ProductionEconomics
- This repository contains Mapple code for the optimization of quadratic production function and Cobb Douglas production function with two inputs and two outputs, and function with one input and one output under perfect competitive market. Under non-profit competitive market, the price of product is the function of production of itself i.e. p = g(y) unlikely constant price in competitive market. So, some more work might be necessary if you want to run optimization using this code for non-competitive market.
+ This repository contains Mapple code for the optimization of quadratic production function and Cobb Douglas production function with two inputs and two outputs, and function with one input and one output under perfect competitive market.
